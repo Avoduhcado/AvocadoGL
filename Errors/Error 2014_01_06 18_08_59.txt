@@ -1,0 +1,13 @@
+java.lang.ArrayIndexOutOfBoundsException: 1
+core.items.Item.parseSpells(Item.java:194)
+core.items.Item.loadItem(Item.java:74)
+core.equipment.Weapons.load(Weapons.java:205)
+core.entity.Actor.loadActor(Actor.java:146)
+core.scene.Stage.loadFromTemp(Stage.java:141)
+core.scene.Stage.loadStage(Stage.java:127)
+core.scene.Stage.changeStage(Stage.java:319)
+core.scene.Stage.reload(Stage.java:374)
+core.scene.Stage.act(Stage.java:284)
+core.Theater.update(Theater.java:87)
+core.Theater.play(Theater.java:126)
+core.Theater.main(Theater.java:196)

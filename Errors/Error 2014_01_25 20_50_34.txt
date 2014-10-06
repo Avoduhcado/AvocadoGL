@@ -1,0 +1,10 @@
+java.lang.IndexOutOfBoundsException: Index: 2, Size: 2
+java.util.ArrayList.rangeCheck(Unknown Source)
+java.util.ArrayList.get(Unknown Source)
+core.utilities.menu.PartyMenu.close(PartyMenu.java:118)
+core.utilities.menu.GameMenu.closeMenu(GameMenu.java:129)
+core.utilities.menu.GameMenu.update(GameMenu.java:66)
+core.scene.Stage.act(Stage.java:244)
+core.Theater.update(Theater.java:93)
+core.Theater.play(Theater.java:131)
+core.Theater.main(Theater.java:201)

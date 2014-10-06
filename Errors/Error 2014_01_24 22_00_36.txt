@@ -1,0 +1,9 @@
+java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+java.lang.String.substring(Unknown Source)
+core.utilities.text.InputBox.input(InputBox.java:127)
+core.utilities.menu.OptionsMenu.update(OptionsMenu.java:103)
+core.utilities.menu.GameMenu.update(GameMenu.java:29)
+core.scene.Stage.act(Stage.java:244)
+core.Theater.update(Theater.java:93)
+core.Theater.play(Theater.java:131)
+core.Theater.main(Theater.java:201)

@@ -1,0 +1,10 @@
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+java.util.ArrayList.rangeCheck(Unknown Source)
+java.util.ArrayList.get(Unknown Source)
+core.entity.character.Party.getMember(Party.java:66)
+core.utilities.menu.PartyMenu.<init>(PartyMenu.java:18)
+core.utilities.menu.GameMenu.<init>(GameMenu.java:15)
+core.scene.Stage.<init>(Stage.java:48)
+core.Theater.<init>(Theater.java:62)
+core.Theater.init(Theater.java:52)
+core.Theater.main(Theater.java:197)

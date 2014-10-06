@@ -1,0 +1,8 @@
+java.lang.NullPointerException
+core.utilities.menu.EquipmentMenu.refresh(EquipmentMenu.java:309)
+core.utilities.menu.EquipmentMenu.update(EquipmentMenu.java:205)
+core.utilities.menu.GameMenu.update(GameMenu.java:26)
+core.scene.Stage.act(Stage.java:244)
+core.Theater.update(Theater.java:93)
+core.Theater.play(Theater.java:131)
+core.Theater.main(Theater.java:201)

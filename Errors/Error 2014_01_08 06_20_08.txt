@@ -1,0 +1,10 @@
+java.lang.NullPointerException
+core.utilities.pathfinding.PathQuad.buildHitmap(PathQuad.java:99)
+core.scene.Stage.loadStage(Stage.java:121)
+core.Theater.loadStage(Theater.java:65)
+core.utilities.menu.Menu.title(Menu.java:226)
+core.utilities.menu.Menu.update(Menu.java:57)
+core.scene.Stage.act(Stage.java:240)
+core.Theater.update(Theater.java:87)
+core.Theater.play(Theater.java:126)
+core.Theater.main(Theater.java:196)

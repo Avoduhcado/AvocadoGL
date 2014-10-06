@@ -1,0 +1,10 @@
+java.lang.NullPointerException
+core.utilities.pathfinding.PathQuadNew.drawImage(PathQuadNew.java:112)
+core.utilities.pathfinding.PathQuadNew.buildRects(PathQuadNew.java:133)
+core.utilities.pathfinding.PathQuadNew.<init>(PathQuadNew.java:30)
+core.utilities.pathfinding.PathQuadNew.loadPathQuad(PathQuadNew.java:65)
+core.scene.Stage.loadStage(Stage.java:132)
+core.scene.Stage.<init>(Stage.java:59)
+core.Theater.<init>(Theater.java:64)
+core.Theater.init(Theater.java:54)
+core.Theater.main(Theater.java:200)

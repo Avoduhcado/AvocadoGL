@@ -1,0 +1,6 @@
+-1;Flavor Text;Stat;Buff Type;Value;Percentage;Duration;...etc
+-1;Nothing!   ;0   ;0        ;0    ;false     ;0
+11;The potion restores some vitality.;0;2;5;false;0
+12;You restore some of your essence.;3;2;30;false;0
+179;Happy Birthday!;0;2;20;false;0
+1103113;You eat the candy. Your teeth begin to rot.;0;1;-2.0;false;0.0;3;1;0.2;true;5.0

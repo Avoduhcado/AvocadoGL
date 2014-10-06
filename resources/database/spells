@@ -1,0 +1,6 @@
+0;PROJECTILE;Blank;0;0;false;0;0
+1;PROJECTILE;Fireball;4f;5f;false;100f;5f
+2;HOMING;Fireball;4f;5f;true;5f;100f;true;Charge Field
+3;AREA;Fireball;4f;5f;100f;true;1.2f;Charge Field
+4;PROJECTILE;Lightning Bolt;3.0;4.5;true;40.0;4.0
+5;HOMING;faget;0.0;3.0;false;1.0;6.0;true;Charge Field

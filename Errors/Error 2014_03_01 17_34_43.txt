@@ -1,0 +1,8 @@
+java.lang.ArrayIndexOutOfBoundsException: 2
+core.utilities.pathfinding.PathQuadNew.loadPathQuad(PathQuadNew.java:35)
+core.scene.Stage.loadStage(Stage.java:132)
+core.Theater.loadStage(Theater.java:68)
+core.utilities.menu.MainMenu.update(MainMenu.java:36)
+core.Theater.update(Theater.java:89)
+core.Theater.play(Theater.java:131)
+core.Theater.main(Theater.java:201)

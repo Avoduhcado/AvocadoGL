@@ -1,0 +1,90 @@
+-BACKDROPS-
+Gameover;1;1
+Load;1;1
+Sky;1;1
+Spookysky;1;1
+Forest;1;1
+Forast;1;1
+
+-MAPS-
+Blank;1;1
+Bigfield;1;1
+Field;1;1
+Testmaze;1;1
+Testmaze2;1;1
+Spookyland;1;1
+Times End Inn;1;1
+
+-PROPS-
+Tree;1;1
+Tree2;1;1
+Stop;1;1
+Times End Bar;1;1
+Times End Table;1;1
+Spooky Barn;1;1
+Scanlines;1;1
+Bush;1;1
+Bonepile;1;1
+Essence Spring;4;1
+
+-ACTORS-
+Player new;4;4
+Player new_atk;4;4
+Player new_def;4;4
+Player new_run;4;4
+Player new_walk;4;4
+Player new_hurt;4;4
+Player;4;4
+Player_atk;4;4
+Player_def;4;4
+Player_run;4;4
+Player_walk;4;4
+Player_hurt;4;4
+Goblin;1;1
+Omnom;1;1
+Skelington;4;4
+Skelington_atk;4;4
+Skelington_run;4;4
+Skelington_walk;4;4
+Skelington_hurt;4;4
+Grim;4;4
+Explosion;1;1
+
+-TILES-
+darkgrass_zorksox;1;1
+Dirtpath;1;1
+Nest;1;1
+Sand;1;1
+Sandstone;1;1
+TileFloor;1;1
+Water;4;1
+
+-WEAPONS-
+Fist;4;4
+Sword;4;4
+Sword_thrust;4;4
+Sword_crush;4;4
+Sword_slash;4;4
+Sword_parry;1;4
+Sword_defend;1;4
+Staff;1;1
+Staff_spell;1;4
+Staff_attack;4;4
+Staff_defend;1;4
+Bow;1;1
+Bow_shoot;1;4
+Bow_attack;4;4
+Bow_defend;1;4
+Fireball;4;4
+Arrow;1;4
+Sword2_thrust;1;4
+
+-APPAREL-
+Cavalier;1;4
+
+-ICONS-
+Armor Icon;1;1
+Weapons Icon;1;1
+Quiver Icon;1;1
+Pocket Icon;1;1
+Sword2_slash;4;4

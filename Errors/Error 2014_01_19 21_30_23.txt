@@ -1,0 +1,13 @@
+java.lang.NullPointerException
+core.entity.weapons.Weapon.loadWeapon(Weapon.java:60)
+core.equipment.Weapons.setGear(Weapons.java:161)
+core.equipment.Weapons.load(Weapons.java:206)
+core.entity.Actor.loadActor(Actor.java:128)
+core.scene.Stage.loadStage(Stage.java:97)
+core.Theater.loadStage(Theater.java:67)
+core.utilities.menu.Menu.title(Menu.java:226)
+core.utilities.menu.Menu.update(Menu.java:57)
+core.scene.Stage.act(Stage.java:243)
+core.Theater.update(Theater.java:89)
+core.Theater.play(Theater.java:128)
+core.Theater.main(Theater.java:198)

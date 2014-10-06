@@ -1,0 +1,8 @@
+java.lang.IndexOutOfBoundsException: Index: 5, Size: 5
+java.util.ArrayList.rangeCheck(Unknown Source)
+java.util.ArrayList.get(Unknown Source)
+core.utilities.pathfinding.DebugNode.draw(DebugNode.java:21)
+core.render.Screen.draw(Screen.java:144)
+core.Theater.update(Theater.java:86)
+core.Theater.play(Theater.java:131)
+core.Theater.main(Theater.java:201)

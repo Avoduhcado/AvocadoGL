@@ -1,0 +1,9 @@
+java.lang.ArithmeticException: / by zero
+core.render.Sprite.getWidth(Sprite.java:214)
+core.render.Sprite.draw(Sprite.java:139)
+core.utilities.text.TextLine.draw(TextLine.java:30)
+core.utilities.text.SelectBox.draw(SelectBox.java:94)
+core.utilities.menu.MainMenu.draw(MainMenu.java:123)
+core.Theater.update(Theater.java:88)
+core.Theater.play(Theater.java:124)
+core.Theater.main(Theater.java:201)

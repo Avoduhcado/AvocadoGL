@@ -1,0 +1,9 @@
+java.lang.NullPointerException
+core.entity.Actor.isParrying(Actor.java:557)
+core.entity.Actor.attack(Actor.java:441)
+core.entity.Actor.update(Actor.java:191)
+core.utilities.Input.playerInput(Input.java:192)
+core.utilities.Input.checkInput(Input.java:15)
+core.Theater.update(Theater.java:94)
+core.Theater.play(Theater.java:131)
+core.Theater.main(Theater.java:201)

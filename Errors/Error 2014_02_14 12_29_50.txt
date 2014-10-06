@@ -1,0 +1,7 @@
+java.lang.NullPointerException
+core.render.Screen.centerOn(Screen.java:329)
+core.Theater.loadStage(Theater.java:71)
+core.utilities.menu.MainMenu.update(MainMenu.java:36)
+core.Theater.update(Theater.java:89)
+core.Theater.play(Theater.java:131)
+core.Theater.main(Theater.java:201)

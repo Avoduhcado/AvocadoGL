@@ -1,0 +1,13 @@
+java.lang.NullPointerException
+core.entity.Actor.iterateState(Actor.java:358)
+core.entity.Actor.setState(Actor.java:742)
+core.entity.Actor.<init>(Actor.java:47)
+core.entity.Actor$1.<init>(Actor.java:65)
+core.entity.Actor.loadActor(Actor.java:65)
+core.entity.Actor.loadActor(Actor.java:96)
+core.scene.Stage.loadStage(Stage.java:95)
+core.Theater.loadStage(Theater.java:67)
+core.utilities.menu.MainMenu.update(MainMenu.java:36)
+core.Theater.update(Theater.java:88)
+core.Theater.play(Theater.java:129)
+core.Theater.main(Theater.java:199)

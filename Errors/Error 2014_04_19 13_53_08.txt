@@ -1,0 +1,7 @@
+java.lang.NullPointerException
+core.render.Sprite.draw(Sprite.java:132)
+core.entity.Entity.draw(Entity.java:43)
+core.render.Screen.draw(Screen.java:105)
+core.Theater.update(Theater.java:85)
+core.Theater.play(Theater.java:129)
+core.Theater.main(Theater.java:199)

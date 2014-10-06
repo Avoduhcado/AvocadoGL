@@ -1,0 +1,7 @@
+java.lang.NullPointerException
+core.utilities.text.Textbox.<init>(Textbox.java:31)
+core.utilities.text.SelectBox.<init>(SelectBox.java:21)
+core.utilities.menu.MainMenu.buildMainMenu(MainMenu.java:133)
+core.utilities.menu.MainMenu.<init>(MainMenu.java:23)
+core.Theater.play(Theater.java:120)
+core.Theater.main(Theater.java:199)

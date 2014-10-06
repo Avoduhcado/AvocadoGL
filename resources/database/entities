@@ -1,0 +1,20 @@
+Name;Solid;XOffset;YOffset;Width;Height
+Player;false;0.0;0.45;1.0;0.55
+Player new;false;0.0;0.45;1.0;0.55
+Bonepile;false;0.0;0.0;1.0;1.0
+Goblin;false;0.0;0.45;1.0;0.55
+Omnom;false;0;0.45;1;0.55
+Skelington;false;0.0;0.45;1.0;0.55
+Grim;false;0.0;0.45;0.75;0.55
+Tree;true;0.3;0.65;0.47;0.35
+Tree2;true;0.3;0.65;0.47;0.35
+Stop;true;0.5;0.65;0.14;0.35
+Times End Bar;true;0;0.22;1;0.5
+Times End Table;true;0;0.1;1;0.9
+Spooky Barn;true;0;0.65;1;0.35
+Explosion;true;0.2;0.0;.6;1.0
+Forest;false;0.0;0.0;1.0;1.0
+Bush;false;0.0;0.0;1.0;1.0
+Arrow;false;0.0;0.0;1.0;1.0
+Essence Spring;false;0.0;0.0;1.0;1.0
+Sword2_slash;false;0.0;0.0;1.0;1.0

@@ -1,0 +1,11 @@
+java.lang.NullPointerException
+core.utilities.actions.Action.parseCondition(Action.java:295)
+core.utilities.actions.Action.parseAction(Action.java:169)
+core.utilities.actions.Action.readAction(Action.java:98)
+core.utilities.text.PlainText.update(PlainText.java:58)
+core.utilities.actions.Action.update(Action.java:60)
+core.utilities.text.Script.update(Script.java:16)
+core.scene.Stage.act(Stage.java:242)
+core.Theater.update(Theater.java:91)
+core.Theater.play(Theater.java:130)
+core.Theater.main(Theater.java:200)

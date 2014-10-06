@@ -1,0 +1,7 @@
+java.lang.NullPointerException
+org.newdawn.easyogg.OggClip.stop(OggClip.java:336)
+core.utilities.sounds.Ensemble.swapBackground(Ensemble.java:107)
+core.scene.Stage.loadStage(Stage.java:87)
+core.Theater.loadStage(Theater.java:67)
+core.Theater.play(Theater.java:119)
+core.Theater.main(Theater.java:199)

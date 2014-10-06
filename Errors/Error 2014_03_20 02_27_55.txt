@@ -1,0 +1,8 @@
+java.lang.IllegalArgumentException: Volume must be between 0.0 and 2.0
+org.newdawn.easyogg.OggClip.setGain(OggClip.java:105)
+core.utilities.sounds.Track.update(Track.java:46)
+core.utilities.sounds.Ensemble.update(Ensemble.java:63)
+core.scene.Stage.act(Stage.java:245)
+core.Theater.update(Theater.java:90)
+core.Theater.play(Theater.java:120)
+core.Theater.main(Theater.java:197)

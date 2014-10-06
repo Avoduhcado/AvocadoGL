@@ -1,0 +1,12 @@
+java.lang.ArrayIndexOutOfBoundsException: Coordinate out of bounds!
+sun.awt.image.IntegerInterleavedRaster.getDataElements(Unknown Source)
+java.awt.image.BufferedImage.getRGB(Unknown Source)
+core.utilities.pathfinding.PathQuadNew.drawImage(PathQuadNew.java:128)
+core.utilities.pathfinding.PathQuadNew.buildRects(PathQuadNew.java:135)
+core.utilities.pathfinding.PathQuadNew.<init>(PathQuadNew.java:31)
+core.utilities.pathfinding.PathQuadNew.loadPathQuad(PathQuadNew.java:66)
+core.scene.Stage.loadStage(Stage.java:132)
+core.scene.Stage.<init>(Stage.java:59)
+core.Theater.<init>(Theater.java:64)
+core.Theater.init(Theater.java:54)
+core.Theater.main(Theater.java:200)

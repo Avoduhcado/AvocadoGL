@@ -1,0 +1,9 @@
+java.lang.NullPointerException
+core.utilities.text.Textbox.setPositionOverTime(Textbox.java:418)
+core.utilities.menu.PartyMenu.focus(PartyMenu.java:90)
+core.utilities.menu.GameMenu.focusOnMenu(GameMenu.java:72)
+core.utilities.menu.GameMenu.update(GameMenu.java:38)
+core.scene.Stage.act(Stage.java:246)
+core.Theater.update(Theater.java:91)
+core.Theater.play(Theater.java:133)
+core.Theater.main(Theater.java:203)

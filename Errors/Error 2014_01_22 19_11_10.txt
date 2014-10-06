@@ -1,0 +1,8 @@
+java.lang.ArrayIndexOutOfBoundsException: 9
+core.equipment.Weapons.load(Weapons.java:207)
+core.scene.Stage.loadPlayer(Stage.java:196)
+core.utilities.Save.loadSave(Save.java:434)
+core.utilities.menu.MainMenu.update(MainMenu.java:98)
+core.Theater.update(Theater.java:89)
+core.Theater.play(Theater.java:131)
+core.Theater.main(Theater.java:201)

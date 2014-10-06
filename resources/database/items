@@ -1,0 +1,23 @@
+0;Empty;false;0;0;false;3;1.0;Fist;1;0:0:0:0:0:0:0;false
+11;Potion;true;1;5;false;3;5.0;Fist;1.0;0:0:0:0:0:0:0;true
+12;Liquid Essence;true;1;3;false;3;5.0;Fist;1.0;0:0:0:0:0:0:0;true
+13;Vinegar;true;1;0;false;3;5.0;Fist;1.0;0:0:0:0:0:0:0;false
+14;Monster;false;1;0;false;3;2.0;Fist;1.0;0:0:0:0:0:0:0;false
+179;Cake;false;1;0;false;3;5.0;Fist;1.0;0:0:0:0:0:0:0;false
+1103113;Candy;true;1;0;false;0;5.0;Fist;1.0;0:0:0:1:0:0:0;true
+21;Pot Helmet;false;1;0;false;0;5.0;Fist;1.0;1:2:2:0:3:0:0;1;3.0
+22;Plate;false;1;0;false;0;0.0;Fist;0.0;0.0:0.0:1.0:0.0:0.0:0.0:0.0;5;5.0
+23;Helmet;false;1;0;false;0;0.0;Fist;0.0;0.0:0.0:0.8:0.0:0.0:0.0:0.0;1;5.0
+24;Left Pauldron;false;1;0;false;0;0.0;Fist;0.0;0.0:0.0:0.2:0.0:0.0:0.0:0.0;3;5.0
+25;Greaves;false;1;0;false;0;0.0;Fist;0.0;0.0:0.0:1.0:0.0:0.0:0.0:0.0;15;5.0
+26;Cavalier;false;1;0;false;0;0.0;Fist;0.0;0.0:0.0:0.0:0.0:0.0:0.0:0.0;0;0.0
+2103112;Jack o'Lantern;false;1;0;false;0;5.0;Fist;1.0;-1:0:0:0:0:0:0;0;1.0
+31;Sword;false;1;5;false;0;2.0;Sword;4.0;1:2:0:0:0:0:0;2;1.0
+32;Staff;false;1;5;false;1;2.0;Staff;1.0;1:2:0:0:0:0:0;2;1.0
+33;Bow;false;1;5;false;2;2.0;Bow;1.0;1:2:0:0:0:0:0;2;1.0
+34;Mace;false;1;15;false;0;5.0;Staff;3.0;2.0:2.0:0.0:0.0:0.0:1.0:0.0;3;1.0
+35;Mega Sword of Doom;false;1;0;false;0;0.0;Sword;15.0;0.0:0.0:0.0:0.0:0.0:0.0:0.0;2;1.0
+36;Longsword;false;1;0;false;0;0.0;Sword2;0.0;0.0:0.0:0.0:0.0:0.0:0.0:0.0;0;0.0
+41;Arrow;true;1;4;false;0;5.0;Sword;4.0;1:2:0:0:0:0:0;0.5;0;PROJECTILE;Arrow;3.0;100;false;5;Charge Field
+42;H. Arrow;true;1;4;false;0;5.0;Sword;4.0;1:2:0:0:0:0:0;0.5;0;HOMING;Arrow;3.0;false;100;100;true;Charge Field
+43;Sipps;true;1;2;false;0;5.0;Fist;1.0;1.0:3.0:4.0:1.0:-5.0:-1.0:-3.0;0.2;0;HOMING;Arrow;2.0;true;2.0;100.0;true;Charge Field

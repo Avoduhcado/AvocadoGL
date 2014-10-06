@@ -1,0 +1,4 @@
+java.lang.NullPointerException
+core.utilities.ErrorLogger.logError(ErrorLogger.java:30)
+core.Theater.play(Theater.java:150)
+core.Theater.main(Theater.java:199)

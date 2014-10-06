@@ -1,0 +1,7 @@
+java.lang.NullPointerException
+core.entity.Moving.canMove(Moving.java:65)
+core.utilities.Input.playerInput(Input.java:66)
+core.utilities.Input.checkInput(Input.java:15)
+core.Theater.update(Theater.java:94)
+core.Theater.play(Theater.java:131)
+core.Theater.main(Theater.java:201)

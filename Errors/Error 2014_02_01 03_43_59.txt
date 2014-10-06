@@ -1,0 +1,9 @@
+java.lang.NullPointerException
+core.entity.Actor.damage(Actor.java:481)
+core.entity.Actor.attack(Actor.java:445)
+core.entity.Actor.update(Actor.java:191)
+core.utilities.Input.playerInput(Input.java:192)
+core.utilities.Input.checkInput(Input.java:15)
+core.Theater.update(Theater.java:94)
+core.Theater.play(Theater.java:131)
+core.Theater.main(Theater.java:201)

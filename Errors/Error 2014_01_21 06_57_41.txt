@@ -1,0 +1,6 @@
+java.lang.NullPointerException
+core.utilities.sounds.Ensemble.update(Ensemble.java:36)
+core.scene.Stage.act(Stage.java:243)
+core.Theater.update(Theater.java:91)
+core.Theater.play(Theater.java:126)
+core.Theater.main(Theater.java:203)

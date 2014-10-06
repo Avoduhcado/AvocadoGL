@@ -1,0 +1,9 @@
+java.lang.ArrayIndexOutOfBoundsException: 1
+core.utilities.text.Text.parseText(Text.java:28)
+core.utilities.text.Text.<init>(Text.java:15)
+core.utilities.text.TextLine.<init>(TextLine.java:14)
+core.utilities.text.Textbox.buildText(Textbox.java:329)
+core.utilities.menu.MainMenu.buildMainMenu(MainMenu.java:134)
+core.utilities.menu.MainMenu.<init>(MainMenu.java:23)
+core.Theater.play(Theater.java:121)
+core.Theater.main(Theater.java:201)
